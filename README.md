@@ -1,5 +1,8 @@
 # SalesProject
 
+Very minimal project using an array of sales person objects to display the properties to the html page.
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
 
 ## Development server
