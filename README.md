@@ -1,6 +1,7 @@
 # SalesProject
 
 Very minimal project using an array of sales person objects to display the properties to the html page.
+Using Angular conditionals and looping to display the data and if a critera is met(quota) will display yes or no. Uses currency pipe for formatting as well.
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
